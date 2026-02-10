@@ -33,9 +33,9 @@ The application automatically:
 - Anyone actively working with AI
 
 #### 🌍 Platform Support
-- macOS
-- Windows
-- Linux
+- macOS **[(download)](macOS)**
+- Windows **[(download)](Windows)**
+- Linux **[(download)](Linux)**
 
 #### 🌐 Localization
 - English
