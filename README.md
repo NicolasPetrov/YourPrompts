@@ -48,3 +48,6 @@ Version: **1.0**
 #### 🏗 Tech Stack
 - Electron
 - React
+
+#### 🐛 Bug Reports / Feedback
+Use Issues or Discussions
