@@ -1,0 +1,295 @@
+================================================================================
+THIRD PARTY LICENSES
+YourPrompts Application
+================================================================================
+
+This application uses open source software components. The following is a list
+of these components along with their licenses.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Total Dependencies: 502
+License Distribution:
+  - MIT License: 407 packages
+  - ISC License: 44 packages
+  - BSD-2-Clause: 17 packages
+  - Apache-2.0: 14 packages
+  - BSD-3-Clause: 10 packages
+  - BlueOak-1.0.0: 4 packages
+  - Other permissive licenses: 7 packages
+
+All licenses are permissive and allow commercial use.
+
+================================================================================
+DIRECT DEPENDENCIES (Production)
+================================================================================
+
+1. React
+   Version: 19.2.4
+   License: MIT
+   Copyright: Meta Platforms, Inc. and affiliates
+   Repository: https://github.com/facebook/react
+
+2. React DOM
+   Version: 19.2.4
+   License: MIT
+   Copyright: Meta Platforms, Inc. and affiliates
+   Repository: https://github.com/facebook/react
+
+3. Lucide React (Icons)
+   Version: 0.563.0
+   License: ISC
+   Copyright: Eric Fennis
+   Repository: https://github.com/lucide-icons/lucide
+
+================================================================================
+DIRECT DEPENDENCIES (Development)
+================================================================================
+
+1. Electron
+   Version: 28.3.3
+   License: MIT
+   Copyright: Electron contributors, GitHub Inc.
+   Repository: https://github.com/electron/electron
+
+2. Electron Builder
+   Version: 24.13.3
+   License: MIT
+   Repository: https://github.com/electron-userland/electron-builder
+
+3. Vite
+   Version: 6.2.0
+   License: MIT
+   Repository: https://github.com/vitejs/vite
+
+4. TypeScript
+   Version: 5.8.3
+   License: Apache-2.0
+   Copyright: Microsoft Corporation
+   Repository: https://github.com/microsoft/TypeScript
+
+5. Tailwind CSS
+   Version: 3.4.19
+   License: MIT
+   Repository: https://github.com/tailwindlabs/tailwindcss
+
+6. Autoprefixer
+   Version: 10.4.24
+   License: MIT
+   Repository: https://github.com/postcss/autoprefixer
+
+7. PostCSS
+   Version: 8.5.6
+   License: MIT
+   Repository: https://github.com/postcss/postcss
+
+8. Terser
+   Version: 5.46.0
+   License: BSD-2-Clause
+   Repository: https://github.com/terser/terser
+
+9. JavaScript Obfuscator
+   Version: 4.2.2
+   License: BSD-2-Clause
+   Repository: https://github.com/javascript-obfuscator/javascript-obfuscator
+
+10. Rollup Obfuscator
+    Version: 4.1.1
+    License: MIT
+    Repository: https://github.com/javascript-obfuscator/rollup-obfuscator
+
+11. Vite Plugin React
+    Version: 5.1.3
+    License: MIT
+    Repository: https://github.com/vitejs/vite-plugin-react
+
+12. Vite Plugin Electron
+    Version: 0.28.0
+    License: MIT
+    Repository: https://github.com/electron-vite/vite-plugin-electron
+
+13. Vite Plugin Electron Renderer
+    Version: 0.14.5
+    License: MIT
+    Repository: https://github.com/electron-vite/vite-plugin-electron-renderer
+
+14. Vite Plugin Compression
+    Version: 0.5.1
+    License: MIT
+    Repository: https://github.com/vbenjs/vite-plugin-compression
+
+15. Vite Plugin Obfuscator
+    Version: 1.0.5
+    License: MIT
+    Repository: https://github.com/elmeet/vite-plugin-obfuscator
+
+16. @types/node
+    Version: 22.14.0
+    License: MIT
+    Repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+
+17. @types/react
+    Version: 19.2.13
+    License: MIT
+    Repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+
+18. @types/react-dom
+    Version: 19.2.3
+    License: MIT
+    Repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+
+================================================================================
+LICENSE TEXTS
+================================================================================
+
+--------------------------------------------------------------------------------
+MIT LICENSE
+--------------------------------------------------------------------------------
+Used by: React, React DOM, Electron, Vite, Tailwind CSS, and 397 other packages
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+ISC LICENSE
+--------------------------------------------------------------------------------
+Used by: Lucide React and 43 other packages
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+--------------------------------------------------------------------------------
+APACHE LICENSE 2.0
+--------------------------------------------------------------------------------
+Used by: TypeScript and 13 other packages
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+--------------------------------------------------------------------------------
+BSD-2-CLAUSE LICENSE
+--------------------------------------------------------------------------------
+Used by: Terser, JavaScript Obfuscator and 15 other packages
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+BSD-3-CLAUSE LICENSE
+--------------------------------------------------------------------------------
+Used by: 10 packages
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGE.
+
+================================================================================
+COMPLETE PACKAGE LIST
+================================================================================
+
+For a complete list of all 498 dependencies with their individual licenses,
+please run: npx license-checker --summary
+
+To view detailed license information for any package:
+  npm view <package-name> license
+
+To generate a full report:
+  npx license-checker > full-licenses.txt
+
+================================================================================
+NOTES
+================================================================================
+
+1. All licenses listed above are permissive open source licenses that allow
+   commercial use, modification, and distribution.
+
+2. This application complies with all license requirements by including this
+   attribution file in the distribution.
+
+3. No copyleft licenses (GPL, LGPL, etc.) are used in this project.
+
+4. For the most up-to-date license information, please refer to the individual
+   package repositories listed above.
+
+5. If you have questions about licensing, please contact the YourPrompts team.
+
+================================================================================
+Generated: February 10, 2026
+YourPrompts Version: 1.0.0
+================================================================================
